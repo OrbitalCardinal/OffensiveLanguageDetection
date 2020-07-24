@@ -1,0 +1,605 @@
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 2.9.7440 64-bit) (preloaded format=pdflatex 2020.7.24)  24 JUL 2020 01:58
+entering extended mode
+**c:/Users/raulc/Desktop/CODEPX/repos/OffensiveLanguageDetection/Poster/BaposterTemplate/poster.tex
+(c:/Users/raulc/Desktop/CODEPX/repos/OffensiveLanguageDetection/Poster/BaposterTemplate/poster.tex
+LaTeX2e <2020-02-02> patch level 5
+L3 programming layer <2020-07-17> (c:/Users\raulc\Desktop\CODEPX\repos\OffensiveLanguageDetection\Poster\BaposterTemplate\baposter.cls
+Document Class: baposter 2011/09/15 v2.0 baposter class
+(C:\Users\raulc\AppData\Local\Programs\MiKTeX\tex/latex/base\article.cls
+Document Class: article 2019/12/20 v1.4l Standard LaTeX document class
+(C:\Users\raulc\AppData\Local\Programs\MiKTeX\tex/latex/base\size10.clo
+File: size10.clo 2019/12/20 v1.4l Standard LaTeX file (size option)
+)
+\c@part=\count168
+\c@section=\count169
+\c@subsection=\count170
+\c@subsubsection=\count171
+\c@paragraph=\count172
+\c@subparagraph=\count173
+\c@figure=\count174
+\c@table=\count175
+\abovecaptionskip=\skip47
+\belowcaptionskip=\skip48
+\bibindent=\dimen134
+)
+baposter: Brian Amberg, 2007, 2008, 2009, 2010, 2011 | http://www.brian-amberg.de/uni/poster/
+baposter: Reinhold Kainhofer, 2011 | http://reinhold.kainhofer.com/
+\baposter@basepaperwidth=\skip49
+\baposter@basepaperheight=\skip50
+\baposter@basemargin=\skip51
+\baposter@finalpaperwidth=\skip52
+\baposter@finalpaperheight=\skip53
+\baposter@finalmargin=\skip54
+\headerheight=\skip55
+\colwidth=\skip56
+\colheight=\skip57
+\baposter@@colspacing=\skip58
+\baposter@box@@cornerradius=\skip59
+\baposter@box@@boxheaderheight=\skip60
+\baposter@box@@boxpadding=\skip61
+\boxstartx=\skip62
+\boxstarty=\skip63
+\boxwidth=\skip64
+\boxheight=\skip65
+\baposter@titleimage@left@width=\skip66
+\baposter@titleimage@right@width=\skip67
+\baposter@titleimage@textwidth=\skip68
+\baposter@box@content=\box45
+\baposter@titleimage@left=\box46
+\baposter@titleimage@title=\box47
+\baposter@titleimage@right=\box48
+Use Packages
+(C:\Users\raulc\AppData\Local\Programs\MiKTeX\tex/latex/xkeyval\xkeyval.sty
+Package: xkeyval 2014/12/03 v2.7a package option processing (HA)
+ (C:\Users\raulc\AppData\Local\Programs\MiKTeX\tex/generic/xkeyval\xkeyval.tex (C:\Users\raulc\AppData\Local\Programs\MiKTeX\tex/generic/xkeyval\xkvutils.tex
+\XKV@toks=\toks15
+\XKV@tempa@toks=\toks16
+ (C:\Users\raulc\AppData\Local\Programs\MiKTeX\tex/generic/xkeyval\keyval.tex))
+\XKV@depth=\count176
+File: xkeyval.tex 2014/12/03 v2.7a key=value parser (HA)
+)) (C:\Users\raulc\AppData\Local\Programs\MiKTeX\tex/latex/tools\calc.sty
+Package: calc 2017/05/25 v4.3 Infix arithmetic (KKT,FJ)
+\calc@Acount=\count177
+\calc@Bcount=\count178
+\calc@Adimen=\dimen135
+\calc@Bdimen=\dimen136
+\calc@Askip=\skip69
+\calc@Bskip=\skip70
+LaTeX Info: Redefining \setlength on input line 80.
+LaTeX Info: Redefining \addtolength on input line 81.
+\calc@Ccount=\count179
+\calc@Cskip=\skip71
+) (C:\Users\raulc\AppData\Local\Programs\MiKTeX\tex/latex/xcolor\xcolor.sty
+Package: xcolor 2016/05/11 v2.12 LaTeX color extensions (UK)
+ (C:\Users\raulc\AppData\Local\Programs\MiKTeX\tex/latex/graphics-cfg\color.cfg
+File: color.cfg 2016/01/02 v1.6 sample color configuration
+)
+Package xcolor Info: Driver file: pdftex.def on input line 225.
+ (C:\Users\raulc\AppData\Local\Programs\MiKTeX\tex/latex/graphics-def\pdftex.def
+File: pdftex.def 2018/01/08 v1.0l Graphics/color driver for pdftex
+)
+Package xcolor Info: Model `cmy' substituted by `cmy0' on input line 1348.
+Package xcolor Info: Model `hsb' substituted by `rgb' on input line 1352.
+Package xcolor Info: Model `RGB' extended on input line 1364.
+Package xcolor Info: Model `HTML' substituted by `rgb' on input line 1366.
+Package xcolor Info: Model `Hsb' substituted by `hsb' on input line 1367.
+Package xcolor Info: Model `tHsb' substituted by `hsb' on input line 1368.
+Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1369.
+Package xcolor Info: Model `Gray' substituted by `gray' on input line 1370.
+Package xcolor Info: Model `wave' substituted by `hsb' on input line 1371.
+) (C:\Users\raulc\AppData\Local\Programs\MiKTeX\tex/latex/pgf/frontendlayer\tikz.sty (C:\Users\raulc\AppData\Local\Programs\MiKTeX\tex/latex/pgf/basiclayer\pgf.sty (C:\Users\raulc\AppData\Local\Programs\MiKTeX\tex/latex/pgf/utilities\pgfrcs.sty (C:\Users\raulc\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilities\pgfutil-common.tex
+\pgfutil@everybye=\toks17
+\pgfutil@tempdima=\dimen137
+\pgfutil@tempdimb=\dimen138
+ (C:\Users\raulc\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilities\pgfutil-common-lists.tex)) (C:\Users\raulc\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilities\pgfutil-latex.def
+\pgfutil@abb=\box49
+ (C:\Users\raulc\AppData\Local\Programs\MiKTeX\tex/latex/ms\everyshi.sty
+Package: everyshi 2001/05/15 v3.00 EveryShipout Package (MS)
+)) (C:\Users\raulc\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilities\pgfrcs.code.tex (C:\Users\raulc\AppData\Local\Programs\MiKTeX\tex/generic/pgf\pgf.revision.tex)
+Package: pgfrcs 2020/01/08 v3.1.5b (3.1.5b)
+))
+Package: pgf 2020/01/08 v3.1.5b (3.1.5b)
+ (C:\Users\raulc\AppData\Local\Programs\MiKTeX\tex/latex/pgf/basiclayer\pgfcore.sty (C:\Users\raulc\AppData\Local\Programs\MiKTeX\tex/latex/graphics\graphicx.sty
+Package: graphicx 2019/11/30 v1.2a Enhanced LaTeX Graphics (DPC,SPQR)
+ (C:\Users\raulc\AppData\Local\Programs\MiKTeX\tex/latex/graphics\graphics.sty
+Package: graphics 2019/11/30 v1.4a Standard LaTeX Graphics (DPC,SPQR)
+ (C:\Users\raulc\AppData\Local\Programs\MiKTeX\tex/latex/graphics\trig.sty
+Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
+) (C:\Users\raulc\AppData\Local\Programs\MiKTeX\tex/latex/graphics-cfg\graphics.cfg
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: pdftex.def on input line 105.
+)
+\Gin@req@height=\dimen139
+\Gin@req@width=\dimen140
+) (C:\Users\raulc\AppData\Local\Programs\MiKTeX\tex/latex/pgf/systemlayer\pgfsys.sty (C:\Users\raulc\AppData\Local\Programs\MiKTeX\tex/generic/pgf/systemlayer\pgfsys.code.tex
+Package: pgfsys 2020/01/08 v3.1.5b (3.1.5b)
+ (C:\Users\raulc\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilities\pgfkeys.code.tex
+\pgfkeys@pathtoks=\toks18
+\pgfkeys@temptoks=\toks19
+ (C:\Users\raulc\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilities\pgfkeysfiltered.code.tex
+\pgfkeys@tmptoks=\toks20
+))
+\pgf@x=\dimen141
+\pgf@y=\dimen142
+\pgf@xa=\dimen143
+\pgf@ya=\dimen144
+\pgf@xb=\dimen145
+\pgf@yb=\dimen146
+\pgf@xc=\dimen147
+\pgf@yc=\dimen148
+\pgf@xd=\dimen149
+\pgf@yd=\dimen150
+\w@pgf@writea=\write3
+\r@pgf@reada=\read2
+\c@pgf@counta=\count180
+\c@pgf@countb=\count181
+\c@pgf@countc=\count182
+\c@pgf@countd=\count183
+\t@pgf@toka=\toks21
+\t@pgf@tokb=\toks22
+\t@pgf@tokc=\toks23
+\pgf@sys@id@count=\count184
+ (C:\Users\raulc\AppData\Local\Programs\MiKTeX\tex/generic/pgf/systemlayer\pgf.cfg
+File: pgf.cfg 2020/01/08 v3.1.5b (3.1.5b)
+)
+Driver file for pgf: pgfsys-pdftex.def
+ (C:\Users\raulc\AppData\Local\Programs\MiKTeX\tex/generic/pgf/systemlayer\pgfsys-pdftex.def
+File: pgfsys-pdftex.def 2020/01/08 v3.1.5b (3.1.5b)
+ (C:\Users\raulc\AppData\Local\Programs\MiKTeX\tex/generic/pgf/systemlayer\pgfsys-common-pdf.def
+File: pgfsys-common-pdf.def 2020/01/08 v3.1.5b (3.1.5b)
+))) (C:\Users\raulc\AppData\Local\Programs\MiKTeX\tex/generic/pgf/systemlayer\pgfsyssoftpath.code.tex
+File: pgfsyssoftpath.code.tex 2020/01/08 v3.1.5b (3.1.5b)
+\pgfsyssoftpath@smallbuffer@items=\count185
+\pgfsyssoftpath@bigbuffer@items=\count186
+) (C:\Users\raulc\AppData\Local\Programs\MiKTeX\tex/generic/pgf/systemlayer\pgfsysprotocol.code.tex
+File: pgfsysprotocol.code.tex 2020/01/08 v3.1.5b (3.1.5b)
+)) (C:\Users\raulc\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcore.code.tex
+Package: pgfcore 2020/01/08 v3.1.5b (3.1.5b)
+ (C:\Users\raulc\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmath.code.tex (C:\Users\raulc\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathcalc.code.tex (C:\Users\raulc\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathutil.code.tex) (C:\Users\raulc\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathparser.code.tex
+\pgfmath@dimen=\dimen151
+\pgfmath@count=\count187
+\pgfmath@box=\box50
+\pgfmath@toks=\toks24
+\pgfmath@stack@operand=\toks25
+\pgfmath@stack@operation=\toks26
+) (C:\Users\raulc\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfunctions.code.tex (C:\Users\raulc\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfunctions.basic.code.tex) (C:\Users\raulc\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfunctions.trigonometric.code.tex) (C:\Users\raulc\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfunctions.random.code.tex) (C:\Users\raulc\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfunctions.comparison.code.tex) (C:\Users\raulc\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfunctions.base.code.tex) (C:\Users\raulc\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfunctions.round.code.tex) (C:\Users\raulc\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfunctions.misc.code.tex) (C:\Users\raulc\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfunctions.integerarithmetics.code.tex))) (C:\Users\raulc\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfloat.code.tex
+\c@pgfmathroundto@lastzeros=\count188
+)) (C:\Users\raulc\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfint.code.tex) (C:\Users\raulc\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcorepoints.code.tex
+File: pgfcorepoints.code.tex 2020/01/08 v3.1.5b (3.1.5b)
+\pgf@picminx=\dimen152
+\pgf@picmaxx=\dimen153
+\pgf@picminy=\dimen154
+\pgf@picmaxy=\dimen155
+\pgf@pathminx=\dimen156
+\pgf@pathmaxx=\dimen157
+\pgf@pathminy=\dimen158
+\pgf@pathmaxy=\dimen159
+\pgf@xx=\dimen160
+\pgf@xy=\dimen161
+\pgf@yx=\dimen162
+\pgf@yy=\dimen163
+\pgf@zx=\dimen164
+\pgf@zy=\dimen165
+) (C:\Users\raulc\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcorepathconstruct.code.tex
+File: pgfcorepathconstruct.code.tex 2020/01/08 v3.1.5b (3.1.5b)
+\pgf@path@lastx=\dimen166
+\pgf@path@lasty=\dimen167
+) (C:\Users\raulc\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcorepathusage.code.tex
+File: pgfcorepathusage.code.tex 2020/01/08 v3.1.5b (3.1.5b)
+\pgf@shorten@end@additional=\dimen168
+\pgf@shorten@start@additional=\dimen169
+) (C:\Users\raulc\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcorescopes.code.tex
+File: pgfcorescopes.code.tex 2020/01/08 v3.1.5b (3.1.5b)
+\pgfpic=\box51
+\pgf@hbox=\box52
+\pgf@layerbox@main=\box53
+\pgf@picture@serial@count=\count189
+) (C:\Users\raulc\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcoregraphicstate.code.tex
+File: pgfcoregraphicstate.code.tex 2020/01/08 v3.1.5b (3.1.5b)
+\pgflinewidth=\dimen170
+) (C:\Users\raulc\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcoretransformations.code.tex
+File: pgfcoretransformations.code.tex 2020/01/08 v3.1.5b (3.1.5b)
+\pgf@pt@x=\dimen171
+\pgf@pt@y=\dimen172
+\pgf@pt@temp=\dimen173
+) (C:\Users\raulc\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcorequick.code.tex
+File: pgfcorequick.code.tex 2020/01/08 v3.1.5b (3.1.5b)
+) (C:\Users\raulc\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcoreobjects.code.tex
+File: pgfcoreobjects.code.tex 2020/01/08 v3.1.5b (3.1.5b)
+) (C:\Users\raulc\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcorepathprocessing.code.tex
+File: pgfcorepathprocessing.code.tex 2020/01/08 v3.1.5b (3.1.5b)
+) (C:\Users\raulc\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcorearrows.code.tex
+File: pgfcorearrows.code.tex 2020/01/08 v3.1.5b (3.1.5b)
+\pgfarrowsep=\dimen174
+) (C:\Users\raulc\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcoreshade.code.tex
+File: pgfcoreshade.code.tex 2020/01/08 v3.1.5b (3.1.5b)
+\pgf@max=\dimen175
+\pgf@sys@shading@range@num=\count190
+\pgf@shadingcount=\count191
+) (C:\Users\raulc\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcoreimage.code.tex
+File: pgfcoreimage.code.tex 2020/01/08 v3.1.5b (3.1.5b)
+ (C:\Users\raulc\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcoreexternal.code.tex
+File: pgfcoreexternal.code.tex 2020/01/08 v3.1.5b (3.1.5b)
+\pgfexternal@startupbox=\box54
+)) (C:\Users\raulc\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcorelayers.code.tex
+File: pgfcorelayers.code.tex 2020/01/08 v3.1.5b (3.1.5b)
+) (C:\Users\raulc\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcoretransparency.code.tex
+File: pgfcoretransparency.code.tex 2020/01/08 v3.1.5b (3.1.5b)
+) (C:\Users\raulc\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcorepatterns.code.tex
+File: pgfcorepatterns.code.tex 2020/01/08 v3.1.5b (3.1.5b)
+) (C:\Users\raulc\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcorerdf.code.tex
+File: pgfcorerdf.code.tex 2020/01/08 v3.1.5b (3.1.5b)
+))) (C:\Users\raulc\AppData\Local\Programs\MiKTeX\tex/generic/pgf/modules\pgfmoduleshapes.code.tex
+File: pgfmoduleshapes.code.tex 2020/01/08 v3.1.5b (3.1.5b)
+\pgfnodeparttextbox=\box55
+) (C:\Users\raulc\AppData\Local\Programs\MiKTeX\tex/generic/pgf/modules\pgfmoduleplot.code.tex
+File: pgfmoduleplot.code.tex 2020/01/08 v3.1.5b (3.1.5b)
+) (C:\Users\raulc\AppData\Local\Programs\MiKTeX\tex/latex/pgf/compatibility\pgfcomp-version-0-65.sty
+Package: pgfcomp-version-0-65 2020/01/08 v3.1.5b (3.1.5b)
+\pgf@nodesepstart=\dimen176
+\pgf@nodesepend=\dimen177
+) (C:\Users\raulc\AppData\Local\Programs\MiKTeX\tex/latex/pgf/compatibility\pgfcomp-version-1-18.sty
+Package: pgfcomp-version-1-18 2020/01/08 v3.1.5b (3.1.5b)
+)) (C:\Users\raulc\AppData\Local\Programs\MiKTeX\tex/latex/pgf/utilities\pgffor.sty (C:\Users\raulc\AppData\Local\Programs\MiKTeX\tex/latex/pgf/utilities\pgfkeys.sty (C:\Users\raulc\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilities\pgfkeys.code.tex)) (C:\Users\raulc\AppData\Local\Programs\MiKTeX\tex/latex/pgf/math\pgfmath.sty (C:\Users\raulc\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmath.code.tex)) (C:\Users\raulc\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilities\pgffor.code.tex
+Package: pgffor 2020/01/08 v3.1.5b (3.1.5b)
+ (C:\Users\raulc\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmath.code.tex)
+\pgffor@iter=\dimen178
+\pgffor@skip=\dimen179
+\pgffor@stack=\toks27
+\pgffor@toks=\toks28
+)) (C:\Users\raulc\AppData\Local\Programs\MiKTeX\tex/generic/pgf/frontendlayer/tikz\tikz.code.tex
+Package: tikz 2020/01/08 v3.1.5b (3.1.5b)
+ (C:\Users\raulc\AppData\Local\Programs\MiKTeX\tex/generic/pgf/libraries\pgflibraryplothandlers.code.tex
+File: pgflibraryplothandlers.code.tex 2020/01/08 v3.1.5b (3.1.5b)
+\pgf@plot@mark@count=\count192
+\pgfplotmarksize=\dimen180
+)
+\tikz@lastx=\dimen181
+\tikz@lasty=\dimen182
+\tikz@lastxsaved=\dimen183
+\tikz@lastysaved=\dimen184
+\tikz@lastmovetox=\dimen185
+\tikz@lastmovetoy=\dimen186
+\tikzleveldistance=\dimen187
+\tikzsiblingdistance=\dimen188
+\tikz@figbox=\box56
+\tikz@figbox@bg=\box57
+\tikz@tempbox=\box58
+\tikz@tempbox@bg=\box59
+\tikztreelevel=\count193
+\tikznumberofchildren=\count194
+\tikznumberofcurrentchild=\count195
+\tikz@fig@count=\count196
+ (C:\Users\raulc\AppData\Local\Programs\MiKTeX\tex/generic/pgf/modules\pgfmodulematrix.code.tex
+File: pgfmodulematrix.code.tex 2020/01/08 v3.1.5b (3.1.5b)
+\pgfmatrixcurrentrow=\count197
+\pgfmatrixcurrentcolumn=\count198
+\pgf@matrix@numberofcolumns=\count199
+)
+\tikz@expandcount=\count266
+ (C:\Users\raulc\AppData\Local\Programs\MiKTeX\tex/generic/pgf/frontendlayer/tikz/libraries\tikzlibrarytopaths.code.tex
+File: tikzlibrarytopaths.code.tex 2020/01/08 v3.1.5b (3.1.5b)
+))) (C:\Users\raulc\AppData\Local\Programs\MiKTeX\tex/latex/base\ifthen.sty
+Package: ifthen 2014/09/29 v1.1c Standard LaTeX ifthen package (DPC)
+) (C:\Users\raulc\AppData\Local\Programs\MiKTeX\tex/latex/base\fontenc.sty
+Package: fontenc 2020/02/11 v2.0o Standard LaTeX package
+)
+\baposter@movebody=\skip72
+\baposter@basemarginright=\skip73
+\baposter@basemarginleft=\skip74
+ (C:\Users\raulc\AppData\Local\Programs\MiKTeX\tex/latex/geometry\geometry.sty
+Package: geometry 2020/01/02 v5.9 Page Geometry
+ (C:\Users\raulc\AppData\Local\Programs\MiKTeX\tex/generic/iftex\ifvtex.sty
+Package: ifvtex 2019/10/25 v1.7 ifvtex legacy package. Use iftex instead.
+ (C:\Users\raulc\AppData\Local\Programs\MiKTeX\tex/generic/iftex\iftex.sty
+Package: iftex 2020/03/06 v1.0d TeX engine tests
+))
+\Gm@cnth=\count267
+\Gm@cntv=\count268
+\c@Gm@tempcnt=\count269
+\Gm@bindingoffset=\dimen189
+\Gm@wd@mp=\dimen190
+\Gm@odd@mp=\dimen191
+\Gm@even@mp=\dimen192
+\Gm@layoutwidth=\dimen193
+\Gm@layoutheight=\dimen194
+\Gm@layouthoffset=\dimen195
+\Gm@layoutvoffset=\dimen196
+\Gm@dimlist=\toks29
+ (C:\Users\raulc\AppData\Local\Programs\MiKTeX\tex/latex/geometry\geometry.cfg)) (C:\Users\raulc\AppData\Local\Programs\MiKTeX\tex/latex/pgf/utilities\pgfpages.sty
+Package: pgfpages 2011/01/05 ver 0.02
+\pgf@logicalpages=\count270
+\pgf@firstshipout=\count271
+\pgf@lastshipout=\count272
+\pgf@currentshipout=\count273
+\pgf@cpn=\count274
+\pgf@shipoutnextto=\count275
+\pgfphysicalheight=\dimen197
+\pgfphysicalwidth=\dimen198
+\pgfpages@shipoutbox=\box60
+)
+\pgfpages@box@1=\box61
+) (C:\Users\raulc\AppData\Local\Programs\MiKTeX\tex/latex/wrapfig\wrapfig.sty
+\wrapoverhang=\dimen199
+\WF@size=\dimen256
+\c@WF@wrappedlines=\count276
+\WF@box=\box62
+\WF@everypar=\toks30
+Package: wrapfig 2003/01/31  v 3.6
+) (C:\Users\raulc\AppData\Local\Programs\MiKTeX\tex/latex/lm\lmodern.sty
+Package: lmodern 2009/10/30 v1.6 Latin Modern Fonts
+LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
+(Font)                  OT1/cmr/m/n --> OT1/lmr/m/n on input line 22.
+LaTeX Font Info:    Overwriting symbol font `letters' in version `normal'
+(Font)                  OML/cmm/m/it --> OML/lmm/m/it on input line 23.
+LaTeX Font Info:    Overwriting symbol font `symbols' in version `normal'
+(Font)                  OMS/cmsy/m/n --> OMS/lmsy/m/n on input line 24.
+LaTeX Font Info:    Overwriting symbol font `largesymbols' in version `normal'
+(Font)                  OMX/cmex/m/n --> OMX/lmex/m/n on input line 25.
+LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
+(Font)                  OT1/cmr/bx/n --> OT1/lmr/bx/n on input line 26.
+LaTeX Font Info:    Overwriting symbol font `letters' in version `bold'
+(Font)                  OML/cmm/b/it --> OML/lmm/b/it on input line 27.
+LaTeX Font Info:    Overwriting symbol font `symbols' in version `bold'
+(Font)                  OMS/cmsy/b/n --> OMS/lmsy/b/n on input line 28.
+LaTeX Font Info:    Overwriting symbol font `largesymbols' in version `bold'
+(Font)                  OMX/cmex/m/n --> OMX/lmex/m/n on input line 29.
+LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `normal'
+(Font)                  OT1/cmr/bx/n --> OT1/lmr/bx/n on input line 31.
+LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `normal'
+(Font)                  OT1/cmss/m/n --> OT1/lmss/m/n on input line 32.
+LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `normal'
+(Font)                  OT1/cmr/m/it --> OT1/lmr/m/it on input line 33.
+LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `normal'
+(Font)                  OT1/cmtt/m/n --> OT1/lmtt/m/n on input line 34.
+LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `bold'
+(Font)                  OT1/cmr/bx/n --> OT1/lmr/bx/n on input line 35.
+LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `bold'
+(Font)                  OT1/cmss/bx/n --> OT1/lmss/bx/n on input line 36.
+LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
+(Font)                  OT1/cmr/bx/it --> OT1/lmr/bx/it on input line 37.
+LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
+(Font)                  OT1/cmtt/m/n --> OT1/lmtt/m/n on input line 38.
+) (C:\Users\raulc\AppData\Local\Programs\MiKTeX\tex/latex/base\inputenc.sty
+Package: inputenc 2018/08/11 v1.3c Input encoding file
+\inpenc@prehook=\toks31
+\inpenc@posthook=\toks32
+) (C:\Users\raulc\AppData\Local\Programs\MiKTeX\tex/latex/base\fontenc.sty
+Package: fontenc 2020/02/11 v2.0o Standard LaTeX package
+LaTeX Font Info:    Trying to load font information for T1+lmr on input line 112.
+ (C:\Users\raulc\AppData\Local\Programs\MiKTeX\tex/latex/lm\t1lmr.fd
+File: t1lmr.fd 2009/10/30 v1.6 Font defs for Latin Modern
+)) (C:\Users\raulc\AppData\Local\Programs\MiKTeX\tex/latex/l3backend\l3backend-pdfmode.def
+File: l3backend-pdfmode.def 2020-06-29 L3 backend support: PDF mode
+\l__kernel_color_stack_int=\count277
+\l__pdf_internal_box=\box63
+) (c:/Users\raulc\Desktop\CODEPX\repos\OffensiveLanguageDetection\Poster\BaposterTemplate\poster.aux)
+\openout1 = `poster.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 26.
+LaTeX Font Info:    ... okay on input line 26.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 26.
+LaTeX Font Info:    ... okay on input line 26.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 26.
+LaTeX Font Info:    ... okay on input line 26.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 26.
+LaTeX Font Info:    ... okay on input line 26.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 26.
+LaTeX Font Info:    ... okay on input line 26.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 26.
+LaTeX Font Info:    ... okay on input line 26.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 26.
+LaTeX Font Info:    ... okay on input line 26.
+ (C:\Users\raulc\AppData\Local\Programs\MiKTeX\tex/context/base/mkii\supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count278
+\scratchdimen=\dimen257
+\scratchbox=\box64
+\nofMPsegments=\count279
+\nofMParguments=\count280
+\everyMPshowfont=\toks33
+\MPscratchCnt=\count281
+\MPscratchDim=\dimen258
+\MPnumerator=\count282
+\makeMPintoPDFobject=\count283
+\everyMPtoPDFconversion=\toks34
+) (C:\Users\raulc\AppData\Local\Programs\MiKTeX\tex/latex/epstopdf-pkg\epstopdf-base.sty
+Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
+ (C:\Users\raulc\AppData\Local\Programs\MiKTeX\tex/generic/infwarerr\infwarerr.sty
+Package: infwarerr 2019/12/03 v1.5 Providing info/warning/error messages (HO)
+) (C:\Users\raulc\AppData\Local\Programs\MiKTeX\tex/latex/grfext\grfext.sty
+Package: grfext 2019/12/03 v1.3 Manage graphics extensions (HO)
+ (C:\Users\raulc\AppData\Local\Programs\MiKTeX\tex/generic/kvdefinekeys\kvdefinekeys.sty
+Package: kvdefinekeys 2019-12-19 v1.6 Define keys (HO)
+)) (C:\Users\raulc\AppData\Local\Programs\MiKTeX\tex/latex/kvoptions\kvoptions.sty
+Package: kvoptions 2019/11/29 v3.13 Key value format for package options (HO)
+ (C:\Users\raulc\AppData\Local\Programs\MiKTeX\tex/generic/ltxcmds\ltxcmds.sty
+Package: ltxcmds 2019/12/15 v1.24 LaTeX kernel commands for general use (HO)
+) (C:\Users\raulc\AppData\Local\Programs\MiKTeX\tex/generic/kvsetkeys\kvsetkeys.sty
+Package: kvsetkeys 2019/12/15 v1.18 Key value parser (HO)
+)) (C:\Users\raulc\AppData\Local\Programs\MiKTeX\tex/generic/pdftexcmds\pdftexcmds.sty
+Package: pdftexcmds 2020-06-27 v0.33 Utility functions of pdfTeX for LuaTeX (HO)
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode found.
+)
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 485.
+Package grfext Info: Graphics extension search list:
+(grfext)             [.pdf,.png,.jpg,.mps,.jpeg,.jbig2,.jb2,.PDF,.PNG,.JPG,.JPEG,.JBIG2,.JB2,.eps]
+(grfext)             \AppendGraphicsExtensions on input line 504.
+) ABD: EveryShipout initializing macros
+*geometry* driver: auto-detecting
+*geometry* detected driver: pdftex
+*geometry* verbose mode - [ preamble ] result:
+* driver: pdftex
+* paper: custom
+* layout: <same size as paper>
+* layoutoffset:(h,v)=(0.0pt,0.0pt)
+* modes: 
+* h-part:(L,W,R)=(33.23366pt, 632.27051pt, 33.23366pt)
+* v-part:(T,H,B)=(33.23366pt, 921.40341pt, 33.23366pt)
+* \paperwidth=698.73782pt
+* \paperheight=987.87073pt
+* \textwidth=632.27051pt
+* \textheight=921.40341pt
+* \oddsidemargin=-39.03633pt
+* \evensidemargin=-39.03633pt
+* \topmargin=-76.03633pt
+* \headheight=12.0pt
+* \headsep=25.0pt
+* \topskip=10.0pt
+* \footskip=30.0pt
+* \marginparwidth=65.0pt
+* \marginparsep=11.0pt
+* \columnsep=10.0pt
+* \skip\footins=9.0pt plus 4.0pt minus 2.0pt
+* \hoffset=0.0pt
+* \voffset=0.0pt
+* \mag=1000
+* \@twocolumnfalse
+* \@twosidefalse
+* \@mparswitchfalse
+* \@reversemarginfalse
+* (1in=72.27pt=25.4mm, 1cm=28.453pt)
+
+LaTeX Font Info:    Trying to load font information for OT1+lmr on input line 79.
+(C:\Users\raulc\AppData\Local\Programs\MiKTeX\tex/latex/lm\ot1lmr.fd
+File: ot1lmr.fd 2009/10/30 v1.6 Font defs for Latin Modern
+)
+LaTeX Font Info:    Trying to load font information for OML+lmm on input line 79.
+ (C:\Users\raulc\AppData\Local\Programs\MiKTeX\tex/latex/lm\omllmm.fd
+File: omllmm.fd 2009/10/30 v1.6 Font defs for Latin Modern
+)
+LaTeX Font Info:    Trying to load font information for OMS+lmsy on input line 79.
+ (C:\Users\raulc\AppData\Local\Programs\MiKTeX\tex/latex/lm\omslmsy.fd
+File: omslmsy.fd 2009/10/30 v1.6 Font defs for Latin Modern
+)
+LaTeX Font Info:    Trying to load font information for OMX+lmex on input line 79.
+ (C:\Users\raulc\AppData\Local\Programs\MiKTeX\tex/latex/lm\omxlmex.fd
+File: omxlmex.fd 2009/10/30 v1.6 Font defs for Latin Modern
+)
+LaTeX Font Info:    External font `lmex10' loaded for size
+(Font)              <10> on input line 79.
+LaTeX Font Info:    External font `lmex10' loaded for size
+(Font)              <7> on input line 79.
+LaTeX Font Info:    External font `lmex10' loaded for size
+(Font)              <5> on input line 79.
+<fime_logo.png, id=6, 401.5pt x 401.5pt>
+File: fime_logo.png Graphic file (type png)
+<use fime_logo.png>
+Package pdftex.def Info: fime_logo.png  used on input line 79.
+(pdftex.def)             Requested size: 113.81102pt x 113.80992pt.
+<uanl_logo.png, id=8, 513.92pt x 513.92pt>
+File: uanl_logo.png Graphic file (type png)
+<use uanl_logo.png>
+Package pdftex.def Info: uanl_logo.png  used on input line 79.
+(pdftex.def)             Requested size: 113.81102pt x 113.80771pt.
+LaTeX Font Info:    Trying to load font information for T1+lmss on input line 79.
+ (C:\Users\raulc\AppData\Local\Programs\MiKTeX\tex/latex/lm\t1lmss.fd
+File: t1lmss.fd 2009/10/30 v1.6 Font defs for Latin Modern
+)
+c:/Users/raulc/Desktop/CODEPX/repos/OffensiveLanguageDetection/Poster/BaposterTemplate/poster.tex:79: Undefined control sequence.
+<recently read> \texbf 
+                       
+l.79 }
+      
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+Missing character: There is no ; in font nullfont!
+Missing character: There is no ; in font nullfont!
+Missing character: There is no ; in font nullfont!
+<figures/phar.pdf, id=9, 839.135pt x 412.54124pt>
+File: figures/phar.pdf Graphic file (type pdf)
+<use figures/phar.pdf>
+Package pdftex.def Info: figures/phar.pdf  used on input line 99.
+(pdftex.def)             Requested size: 194.08705pt x 95.41754pt.
+Missing character: There is no ; in font nullfont!
+Missing character: There is no ; in font nullfont!
+Missing character: There is no ; in font nullfont!
+
+LaTeX Warning: Citation `xu1996gma' on page 1 undefined on input line 112.
+
+
+LaTeX Warning: Citation `cao2008maximum' on page 1 undefined on input line 112.
+
+<figures/sim.pdf, id=10, 682.55pt x 370.38374pt>
+File: figures/sim.pdf Graphic file (type pdf)
+<use figures/sim.pdf>
+Package pdftex.def Info: figures/sim.pdf  used on input line 112.
+(pdftex.def)             Requested size: 194.08705pt x 105.31743pt.
+Missing character: There is no ; in font nullfont!
+Missing character: There is no ; in font nullfont!
+Missing character: There is no ; in font nullfont!
+<figures/screen.pdf, id=11, 1023.825pt x 654.445pt>
+File: figures/screen.pdf Graphic file (type pdf)
+<use figures/screen.pdf>
+Package pdftex.def Info: figures/screen.pdf  used on input line 126.
+(pdftex.def)             Requested size: 346.95047pt x 221.7694pt.
+Missing character: There is no ; in font nullfont!
+Missing character: There is no ; in font nullfont!
+Missing character: There is no ; in font nullfont!
+<figures/class.pdf, id=12, 341.275pt x 569.12625pt>
+File: figures/class.pdf Graphic file (type pdf)
+<use figures/class.pdf>
+Package pdftex.def Info: figures/class.pdf  used on input line 152.
+(pdftex.def)             Requested size: 122.45348pt x 204.20793pt.
+
+LaTeX Warning: Citation `keiser2007relating' on page 1 undefined on input line 152.
+
+<figures/res.pdf, id=13, 552.0217pt x 335.51285pt>
+File: figures/res.pdf Graphic file (type pdf)
+<use figures/res.pdf>
+Package pdftex.def Info: figures/res.pdf  used on input line 152.
+(pdftex.def)             Requested size: 261.93375pt x 159.20131pt.
+Missing character: There is no ; in font nullfont!
+Missing character: There is no ; in font nullfont!
+Missing character: There is no ; in font nullfont!
+Missing character: There is no ; in font nullfont!
+Missing character: There is no ; in font nullfont!
+Missing character: There is no ; in font nullfont!
+No file poster.bbl.
+Missing character: There is no ; in font nullfont!
+Missing character: There is no ; in font nullfont!
+Missing character: There is no ; in font nullfont!
+[2
+
+{C:/Users/raulc/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map} <c:/Users/raulc/Desktop/CODEPX/repos/OffensiveLanguageDetection/Poster/BaposterTemplate/fime_logo.png> <c:/Users/raulc/Desktop/CODEPX/repos/OffensiveLanguageDetection/Poster/BaposterTemplate/uanl_logo.png> <c:/Users/raulc/Desktop/CODEPX/repos/OffensiveLanguageDetection/Poster/BaposterTemplate/figures/phar.pdf> <c:/Users/raulc/Desktop/CODEPX/repos/OffensiveLanguageDetection/Poster/BaposterTemplate/figures/sim.pdf
+
+pdfTeX warning: pdflatex (file c:/Users/raulc/Desktop/CODEPX/repos/OffensiveLanguageDetection/Poster/BaposterTemplate/figures/sim.pdf): PDF inclusion: multiple pdfs with page group included in a single page
+> <c:/Users/raulc/Desktop/CODEPX/repos/OffensiveLanguageDetection/Poster/BaposterTemplate/figures/screen.pdf
+
+pdfTeX warning: pdflatex (file c:/Users/raulc/Desktop/CODEPX/repos/OffensiveLanguageDetection/Poster/BaposterTemplate/figures/screen.pdf): PDF inclusion: multiple pdfs with page group included in a single page
+> <c:/Users/raulc/Desktop/CODEPX/repos/OffensiveLanguageDetection/Poster/BaposterTemplate/figures/class.pdf
+
+pdfTeX warning: pdflatex (file c:/Users/raulc/Desktop/CODEPX/repos/OffensiveLanguageDetection/Poster/BaposterTemplate/figures/class.pdf): PDF inclusion: multiple pdfs with page group included in a single page
+> <c:/Users/raulc/Desktop/CODEPX/repos/OffensiveLanguageDetection/Poster/BaposterTemplate/figures/res.pdf
+
+pdfTeX warning: pdflatex (file c:/Users/raulc/Desktop/CODEPX/repos/OffensiveLanguageDetection/Poster/BaposterTemplate/figures/res.pdf): PDF inclusion: multiple pdfs with page group included in a single page
+>] (c:/Users\raulc\Desktop\CODEPX\repos\OffensiveLanguageDetection\Poster\BaposterTemplate\poster.aux)
+
+LaTeX Warning: There were undefined references.
+
+
+LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
+
+ ) 
+Here is how much of TeX's memory you used:
+ 14382 strings out of 481229
+ 296538 string characters out of 2906364
+ 539751 words of memory out of 3000000
+ 29669 multiletter control sequences out of 15000+200000
+ 567172 words of font info for 47 fonts, out of 3000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 68i,13n,64p,496b,1018s stack positions out of 5000i,500n,10000p,200000b,50000s
+{C:/Users/raulc/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/lm/lm-ec.enc}<C:/Users/raulc/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmbx10.pfb><C:/Users/raulc/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmr10.pfb><C:/Users/raulc/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmss12.pfb><C:/Users/raulc/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmss9.pfb><C:/Users/raulc/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmssbx10.pfb>
+Output written on c:/Users\raulc\Desktop\CODEPX\repos\OffensiveLanguageDetection\Poster\BaposterTemplate\poster.pdf (1 page, 429329 bytes).
+PDF statistics:
+ 124 PDF objects out of 1000 (max. 8388607)
+ 0 named destinations out of 1000 (max. 500000)
+ 54 words of extra memory for PDF output out of 10000 (max. 10000000)
+
