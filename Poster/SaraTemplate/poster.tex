@@ -3,19 +3,21 @@
 %\usepackage[spanish]{babel}
 \usepackage{calligra}
 \usepackage[font=footnotesize, labelfont=bf]{caption}
+\usepackage{lipsum}
 
 \definecolor{headercol}{RGB}{0,129,216} %azul
 %\definecolor{headercol2}{RGB}{216,87,0} % naranja oscuro 
 %\definecolor{headercol2}{HTML}{FF9933}  % naranja feo
 %\definecolor{headercol2}{HTML}{80C200} %verde
-\definecolor{headercol2}{HTML}{B9E700} 
+% \definecolor{headercol2}{HTML}{B9E700} 
+\definecolor{headercol2}{RGB}{255,255,255} 
 
 \begin{document}
 \sffamily
 \begin{poster}{
     % Poster Environment Options
     grid=false,
-    columns=3,
+    columns=2,
     colspacing=0.75cm, % subject to change
     headerheight=0.1\textheight,
     background=plain,
@@ -62,8 +64,9 @@
   %%
 
   % BOX1
+  
   \begin{posterbox}[name=intro, column=0, row=0]{Introducci\'on} {
-    Texto
+    \lipsum[18]
     
     \includegraphics[width=\linewidth]{wordle2.png}
     \captionof{figure}{Una imagen}
@@ -103,20 +106,20 @@
   \end{posterbox}
 
   %BOX6
-  \begin{posterbox}[name=interact, column=2, row=0]{Conclusiones} {
+  \begin{posterbox}[name=interact, column=1, row=0]{Conclusiones} {
     
   }
   \end{posterbox}
 
   
   %BOX7
-  \begin{posterbox}[column=2, name=future, below=interact] {Trabajo futuro} {
+  \begin{posterbox}[column=1, name=future, below=interact] {Trabajo futuro} {
     Texto
   }
   \end{posterbox}
   
   %BOX8
-  \begin{posterbox}[column=2, name=ref, below=future] {References} {
+  \begin{posterbox}[column=1, name=ref, below=future] {References} {
       \small {
       \begin{flushleft}
         \bibliographystyle{plain}
