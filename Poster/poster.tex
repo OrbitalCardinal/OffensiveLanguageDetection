@@ -1,0 +1,142 @@
+\documentclass[a0paper, portrait]{baposter}
+\usepackage{graphicx}
+%\usepackage[spanish]{babel}
+\usepackage{calligra}
+\usepackage[font=footnotesize, labelfont=bf]{caption}
+
+\definecolor{headercol}{RGB}{0,129,216} %azul
+%\definecolor{headercol2}{RGB}{216,87,0} % naranja oscuro 
+%\definecolor{headercol2}{HTML}{FF9933}  % naranja feo
+%\definecolor{headercol2}{HTML}{80C200} %verde
+\definecolor{headercol2}{HTML}{B9E700} 
+
+\begin{document}
+\sffamily
+\begin{poster}{
+    % Poster Environment Options
+    grid=false,
+    columns=3,
+    colspacing=0.75cm, % subject to change
+    headerheight=0.1\textheight,
+    background=plain,
+    bgColorOne=white,
+    eyecatcher=true,
+    %Postbox environment options
+    borderColor=black,
+    headerColorOne=headercol2,
+    headerColorTwo=headercol2,
+    textborder = roundedsmall,
+    headerborder=closed,
+    headershape=roundedleft,
+    headershade=plain,
+%    headerFontColor = white,
+    headerfont=\Large\sffamily\bfseries,
+    boxshade=none,
+    linewidth=0.10cm,    
+}
+  % Eye Catch
+  { \includegraphics[height=0.1\textheight]{uanl.png} }
+  % Title
+  {
+    \bf\sf T\'itulo del p\'oster
+    %\bf\textsc{}}     
+  }
+     % Author
+  {
+    {\it Tu nombre} \\
+    \small {
+    De d\'onde vienes \\
+    Facultad de Ingenier\'ia Mec\'anica y El\'ectrica, Universidad Aut\'onoma de Nuevo Le\'on \\
+    Julio 2015       
+    }
+  }
+  % Logo  
+  {
+    \includegraphics[height=8.0em]{fime.pdf}
+    \hspace{2.0em}
+    \includegraphics[height=8.0em]{ciidit.png}
+  }
+
+  %%
+  %% Poster Content
+  %%
+
+  % BOX1
+  \begin{posterbox}[name=intro, column=0, row=0]{Introducci\'on} {
+    Texto
+    
+    \includegraphics[width=\linewidth]{wordle2.png}
+    \captionof{figure}{Una imagen}
+    \label{fig:1}
+    
+    \vspace{1em} Algo m\'as \ldots %while also considering possible interaction with the tag cloud to retrieve more information. % reword plz
+  }
+  \end{posterbox}
+
+  %BOX2
+  \begin{posterbox}[name=tech, column=0, below=intro]{Objetivos} {
+    Ejemplo de lista: \newline
+    \begin{description}
+    \item[Elemento 1] Una cita \cite{Charras}. 
+    \item[Elemento 2] Otra cosa.
+    \item[Elemento 3] Otra cosa.
+    \end{description}
+  }
+  \end{posterbox}
+
+  %BOX3
+  \begin{posterbox}[name=initial, column=0, below=tech]{Marco te\'orico} {
+    
+  }
+  \end{posterbox}
+
+  %BOX4
+  \begin{posterbox}[name=semantic, column=1, row=0]{Metodolog\'ia} {
+    
+  }
+  \end{posterbox}
+  
+  %BOX5
+  \begin{posterbox}[column=1, name=index, below=semantic]{Resultados} {
+    
+    }
+  \end{posterbox}
+
+  %BOX6
+  \begin{posterbox}[name=interact, column=2, row=0]{Conclusiones} {
+    
+  }
+  \end{posterbox}
+
+  
+  %BOX7
+  \begin{posterbox}[column=2, name=future, below=interact] {Trabajo futuro} {
+    Texto
+  }
+  \end{posterbox}
+  
+  %BOX8
+  \begin{posterbox}[column=2, name=ref, below=future] {References} {
+      \small {
+      \begin{flushleft}
+        \bibliographystyle{plain}
+        \renewcommand{\section}[2]{\vskip 0.05em}
+        \begin{thebibliography}{7}\itemsep=-0.1em 
+          \setlength{\baselineskip}{0.4em}
+          \bibitem{Charras}
+            \newblock {\sc Charras, Christian}; {\sc Lecroq, Thierry}. {\it Exact String Matching Algorithms}  
+            \newblock http://www-igm.univ-mlv.fr/~lecroq/string/      
+        \end{thebibliography}
+        \vspace{0.3em}       
+      \end{flushleft}
+      }
+    }
+  \end{posterbox}
+
+  \begin{posterbox}[column=2, name=credits, below=ref] {Agradecimientos} {
+      Gracias a \ldots
+    }
+  \end{posterbox}
+
+\end{poster}
+\end{document}
